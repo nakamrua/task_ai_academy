@@ -1,2 +1,4 @@
 # task_ai_academy
-task for ai academy
+これはかがわAIゼミナールの通し課題です
+期間は８／２７～９／３０を予定
+・・・・・
